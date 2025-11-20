@@ -83,7 +83,7 @@ const App = () => {
       description:
         "A component tracking system for EXTC projects that manages parts inventory, pricing, and project details efficiently.",
       tech: ["React", "Node.js", "MongoDB", "Express"],
-      link: "https://partsnprice.netlify.app/",
+      link: "https://partsnprice-shailesh.vercel.app/",
       features: [
         "Component Tracking",
         "Price Management",
@@ -96,7 +96,7 @@ const App = () => {
       description:
         "A modern crowdfunding platform built with MERN Stack enabling users to create campaigns, donate, and track funding progress.",
       tech: ["React", "Node.js", "MongoDB", "Express"],
-      link: "https://wefund-shailesh.netlify.app/",
+      link: "wefund-shailesh.vercel.app/",
       features: [
         "Campaign Creation",
         "Payment Integration",
